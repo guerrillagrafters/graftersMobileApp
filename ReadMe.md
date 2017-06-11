@@ -19,7 +19,7 @@ Click  to [download the RAW code](https://github.com/guerrillagrafters/app/blob/
  ![downlad the app](ggapp.png)
  
 ## How do I get the Super Secret Code Book?
-Click to [download the corresponding Super Secret code book](http://beforebefore.net/GG_code_bookv2.pdf) to encode and decode your grafters notes. 
+Click to [download the corresponding Super Secret code book](GG_code_bookv2.pdf) to encode and decode your grafters notes. 
 
  ![super secret code book](http://www.guerrillagrafters.org/wp-content/uploads/2017/06/codebook.png)
 
