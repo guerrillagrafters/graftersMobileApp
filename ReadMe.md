@@ -19,3 +19,6 @@ __NOTE: During the installation You need to change your phone’s security setti
  ![super secret code book](http://www.guerrillagrafters.org/wp-content/uploads/2017/06/codebook.png)
 
 
+<style>
+image{border:1px solid red;}
+</style>
