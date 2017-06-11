@@ -9,16 +9,14 @@ At the moment this app only works on android due to limitations on using nfc on 
 __NOTE: During the installation You need to change your phone’s security settings to allow for unsigned apps__
 
 ## How do I get the App?
-1. Click [THIS LINK](https://github.com/guerrillagrafters/app/blob/master/GuerrillaGrafterApp.apk?raw=true) to download the RAW code and install the app.  
+:one: Click [THIS LINK](https://github.com/guerrillagrafters/app/blob/master/GuerrillaGrafterApp.apk?raw=true) to download the RAW code and install the app.  
  ___or___
  scan this qr code to down load the app to your android.
-<img src="ggapp.png" styl="display: block; size:50%;" alt="scan this qr code to download the raw file and install the app">
+<img src="ggapp.png" style="display: block; size:50%;botder:1px solid red;" alt="scan this qr code to download the raw file and install the app">
 
 
-2. Click [THIS LINK](http://beforebefore.net/GG_code_bookv2.pdf) to download the corresponding Super Secret code book to encode and decode your grafters notes. 
+:two: Click [THIS LINK](http://beforebefore.net/GG_code_bookv2.pdf) to download the corresponding Super Secret code book to encode and decode your grafters notes. 
  ![super secret code book](http://www.guerrillagrafters.org/wp-content/uploads/2017/06/codebook.png)
 
 
-<style>
-image{border:1px solid red;}
-</style>
+
