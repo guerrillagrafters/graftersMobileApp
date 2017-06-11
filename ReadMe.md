@@ -12,14 +12,14 @@ Here is a list of [Android phones that support NFC ](https://www.unitag.io/nfc/i
 __NOTE: During the installation You need to change your phone’s security settings to allow for unsigned apps__
 
 ## How do I get the App?
-Click [THIS LINK](https://github.com/guerrillagrafters/app/blob/master/GuerrillaGrafterApp.apk?raw=true) to download the RAW code and install the app.  
+Click  to [download the RAW code](https://github.com/guerrillagrafters/app/blob/master/GuerrillaGrafterApp.apk?raw=true) and install the app.  
  ___or___
  scan this qr code to down load the app to your android.
  
  ![downlad the app](ggapp.png)
  
 ## How do I get the Super Secret Code Book?
-Click [THIS LINK](http://beforebefore.net/GG_code_bookv2.pdf) to download the corresponding Super Secret code book to encode and decode your grafters notes. 
+Click to [download the corresponding Super Secret code book](http://beforebefore.net/GG_code_bookv2.pdf) to encode and decode your grafters notes. 
 
  ![super secret code book](http://www.guerrillagrafters.org/wp-content/uploads/2017/06/codebook.png)
 
