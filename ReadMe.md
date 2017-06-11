@@ -10,8 +10,10 @@ __NOTE: During the installation You need to change your phone’s security setti
 
 ## How do I get the App?
 1. Click [THIS LINK](https://github.com/guerrillagrafters/app/blob/master/GuerrillaGrafterApp.apk?raw=true) to start the download or go the the app and view the RAW file.  
- or ![scan this code](ggapp.png)
+ ___or___
  scan this qr code to down load the app to your android.
+ ![scan this code](ggapp.png)
 
-2. Click [THIS LINK](http://beforebefore.net/GG_code_bookv2.pdf) to download the corresponding Super Secret code book to encode and decode your grafters notes. ![super secret code book](http://www.guerrillagrafters.org/wp-content/uploads/2017/06/codebook.png)
+2. Click [THIS LINK](http://beforebefore.net/GG_code_bookv2.pdf) to download the corresponding Super Secret code book to encode and decode your grafters notes. 
+ ![super secret code book](http://www.guerrillagrafters.org/wp-content/uploads/2017/06/codebook.png)
 
